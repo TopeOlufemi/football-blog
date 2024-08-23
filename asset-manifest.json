@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TopeOlufemi/football-blog/static/css/main.b8821b81.css",
+    "main.js": "/TopeOlufemi/football-blog/static/js/main.b040da9f.js",
+    "static/js/453.53abc377.chunk.js": "/TopeOlufemi/football-blog/static/js/453.53abc377.chunk.js",
+    "index.html": "/TopeOlufemi/football-blog/index.html",
+    "main.b8821b81.css.map": "/TopeOlufemi/football-blog/static/css/main.b8821b81.css.map",
+    "main.b040da9f.js.map": "/TopeOlufemi/football-blog/static/js/main.b040da9f.js.map",
+    "453.53abc377.chunk.js.map": "/TopeOlufemi/football-blog/static/js/453.53abc377.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8821b81.css",
+    "static/js/main.b040da9f.js"
+  ]
+}
